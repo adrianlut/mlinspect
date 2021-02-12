@@ -10,3 +10,6 @@ more-itertools==8.6.0
 pygraphviz==1.5
 testfixtures==6.15.0
 matplotlib==3.3.2
+
+# for python<3.7
+dataclasses
